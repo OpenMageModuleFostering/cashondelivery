@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/CashOnDelivery",
+    "name": "openmage-module-fostering\/cashondelivery",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Cash on Delivery allows to book additional fee on delivery depending on inland or international delivery.",
     "authors": [
