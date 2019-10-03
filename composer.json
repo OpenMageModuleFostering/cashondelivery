@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/CashOnDelivery",
+    "name": "OpenMageModuleFostering\/CashOnDelivery",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "Cash on Delivery allows to book additional fee on delivery depending on inland or international delivery.",
     "authors": [
-    {
-        "name": "Phoenix Medien",
-        "email": "info@phoenix-medien.de"
-    }
-],
+        {
+            "name": "Phoenix Medien",
+            "email": "info@phoenix-medien.de"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
